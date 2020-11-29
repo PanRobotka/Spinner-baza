@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Robie baze</string>
+
+    <string-array name="powtorzenie">
+        <item>Klata</item>
+        <item>Plecy</item>
+        <item>Barki</item>
+
+    </string-array>
+
+</resources>
